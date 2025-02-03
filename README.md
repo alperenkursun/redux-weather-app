@@ -4,8 +4,8 @@ HTML - CSS - JS - React - Redux App
 
 ---
 
-<!-- [See The Project]()
+[See The Project](https://reduxweatherapp.surge.sh/)
 
-![rwaimg]()
+![rwaimg](rwaimg.webp)
 
-[Patika](https://academy.patika.dev/tr/@alpk) -->
+[Patika](https://academy.patika.dev/tr/@alpk)
